@@ -1,0 +1,2 @@
+[console_scripts]
+bmn = bmn.scripts.bmn:bmn
